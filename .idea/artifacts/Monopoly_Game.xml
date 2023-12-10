@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Monopoly-Game">
+    <output-path>$PROJECT_DIR$/out/artifacts/Monopoly-Game_jar</output-path>
+    <root id="archive" name="Monopoly-Game.jar">
+      <element id="module-output" name="Monopoly-Game" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/hamcrest/hamcrest/2.2/hamcrest-2.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
